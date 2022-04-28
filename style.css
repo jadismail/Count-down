@@ -20,7 +20,7 @@ body {
 
 .countdown-background {
     align-items: center;
-    background-image: url(../Images/event.jpg);
+    background-image: url(./event.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
